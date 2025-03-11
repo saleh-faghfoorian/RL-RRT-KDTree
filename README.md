@@ -6,7 +6,7 @@ This repository contains the implementation and supplementary materials for our 
 **Zonal RL-RRT: Integrated RL-RRT Path Planning with Collision Probability and Zone Connectivity**
 
 Authors: A.M. Tahmasbi, M. Saleh Faghfoorian, Saeed Khodaygan, Aniket Bera  
-[GitHub Repository](https://github.com/saleh-faghfoorian/RL-RRT-KDTree.git)
+<!-- [GitHub Repository](https://github.com/saleh-faghfoorian/RL-RRT-KDTree.git) -->
 
 ## Introduction
 Path planning in high-dimensional spaces is a challenging problem, requiring both time efficiency and high success rates. Our proposed algorithm, **Zonal RL-RRT**, introduces kd-tree partitioning to segment the environment into zones, addressing zone connectivity and ensuring smooth transitions between zones. This approach significantly improves computational efficiency while maintaining robust performance across diverse environments.
