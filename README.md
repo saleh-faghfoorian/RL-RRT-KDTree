@@ -30,8 +30,8 @@ To ensure smooth navigation, we establish **zone connectivity** by analyzing sha
 
 *Figure: Without zone connectivity*
 <p align="center">
-  <img src="2D_scenario1.gif" width="300">
-  <img src="2D_scenario2.gif" width="300">
+  <img src="2D_scenario1_without_zone_connectivity.jpg" width="300">
+  <img src="2D_scenario2_without_zone_connectivity.jpg" width="300">
 </p>
 
 
