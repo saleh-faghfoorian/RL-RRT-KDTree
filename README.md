@@ -17,6 +17,10 @@ Path planning in high-dimensional spaces is a challenging problem, requiring bot
 ## KD-Tree Partitioning
 A key component of our approach is **kd-tree partitioning**, which dynamically segments the environment based on obstacle distribution. This enables more efficient pathfinding by reducing complexity and enhancing local sampling strategies.
 
+<p align="center">
+  <img src="2D_scenario1.gif" width="300">
+  <img src="2D_scenario2.gif" width="300">
+</p>
 
 ![KD-Tree Partitioning_1](2D_scenario1.gif)
 *Figure: An example of kd-tree partitioning applied to a cluttered environment.*
