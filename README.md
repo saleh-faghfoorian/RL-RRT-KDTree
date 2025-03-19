@@ -42,9 +42,6 @@ To ensure smooth navigation, we establish **zone connectivity** by analyzing sha
 ## Robot and 3D Environment Simulations
 Our algorithm has been tested in both **2D and 3D environments**, as well as on a **6-DOF UR10e robotic arm in MuJoCo**. The following simulations demonstrate how Zonal RL-RRT effectively generates feasible and efficient trajectories.
 
-
-*Figure: Robot motion planning and 3D environment navigation.*
-
 ### Scenario 1
 <p align="center">
   <img src="Cube_1.gif" width="200">
