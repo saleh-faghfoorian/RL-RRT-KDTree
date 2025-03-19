@@ -11,7 +11,10 @@ Authors: A.M. Tahmasbi, M. Saleh Faghfoorian, Saeed Khodaygan, Aniket Bera
 ## Introduction
 Path planning in high-dimensional spaces is a challenging problem, requiring both time efficiency and high success rates. Our proposed algorithm, **Zonal RL-RRT**, introduces kd-tree partitioning to segment the environment into zones, addressing zone connectivity and ensuring smooth transitions between zones. This approach significantly improves computational efficiency while maintaining robust performance across diverse environments.
 
-![Zonal RL-RRT Overview](Fig1.png)
+<p align="center">
+  <img src="Fig1.png" width="500">
+</p>  
+<!-- ![Zonal RL-RRT Overview](Fig1.png) -->
 <!-- *Figure 1: Illustration of our Zonal RL-RRT approach.* -->
 
 ## KD-Tree Partitioning
