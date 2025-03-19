@@ -21,6 +21,9 @@ A key component of our approach is **kd-tree partitioning**, which dynamically s
 ![KD-Tree Partitioning_1](2D_scenario1.gif)
 *Figure: An example of kd-tree partitioning applied to a cluttered environment.*
 
+![KD-Tree Partitioning_2](2D_scenario2.gif)
+*Figure: An example of kd-tree partitioning applied to a cluttered environment.*
+
 ## Zone Connectivity
 To ensure smooth navigation, we establish **zone connectivity** by analyzing shared boundaries between partitions. Using Value Iteration, our algorithm determines the optimal sequence of zones to traverse, minimizing computational overhead while ensuring high success rates.
 
