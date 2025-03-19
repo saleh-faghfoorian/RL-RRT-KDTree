@@ -44,14 +44,14 @@ Our algorithm has been tested in both **2D and 3D environments**, as well as on 
 
 
 *Figure: Robot motion planning and 3D environment navigation.*
-**Scenario 1**
+###Scenario 1
 <p align="center">
   <img src="Shelf1.gif" width="200">
   <img src="Shelf2.gif" width="200">
   <img src="Shelf3.gif" width="200">
 </p>
 
-**Scenario 2**
+###Scenario 2**
 <p align="center">
   <img src="Cube_1.gif" width="300">
   <img src="Cube_2.gif" width="300">
