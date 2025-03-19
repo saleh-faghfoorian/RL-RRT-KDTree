@@ -17,7 +17,7 @@ Path planning in high-dimensional spaces is a challenging problem, requiring bot
 ## KD-Tree Partitioning
 A key component of our approach is **kd-tree partitioning**, which dynamically segments the environment based on obstacle distribution. This enables more efficient pathfinding by reducing complexity and enhancing local sampling strategies.
 
-*Figure: An example of kd-tree partitioning applied to a cluttered environment.*
+*Figure: An example of kd-tree partitioning.*
 
 <p align="center">
   <img src="2D_scenario1.gif" width="300">
@@ -28,9 +28,16 @@ A key component of our approach is **kd-tree partitioning**, which dynamically s
 ## Zone Connectivity
 To ensure smooth navigation, we establish **zone connectivity** by analyzing shared boundaries between partitions. Using Value Iteration, our algorithm determines the optimal sequence of zones to traverse, minimizing computational overhead while ensuring high success rates.
 
+*Figure: Without zone connectivity*
+<p align="center">
+  <img src="2D_scenario1.gif" width="300">
+  <img src="2D_scenario2.gif" width="300">
+</p>
+
+
 <!-- ![Zone Connectivity - Gif 1](zone_connectivity_1.gif)  -->
 <!-- ![Zone Connectivity - Gif 2](zone_connectivity_2.gif)  -->
-*Figure: Visualization of zone connectivity and transitions.*
+
 
 ## Robot and 3D Environment Simulations
 Our algorithm has been tested in both **2D and 3D environments**, as well as on a **6-DOF UR10e robotic arm in MuJoCo**. The following simulations demonstrate how Zonal RL-RRT effectively generates feasible and efficient trajectories.
