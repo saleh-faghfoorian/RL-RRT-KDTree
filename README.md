@@ -42,9 +42,20 @@ To ensure smooth navigation, we establish **zone connectivity** by analyzing sha
 ## Robot and 3D Environment Simulations
 Our algorithm has been tested in both **2D and 3D environments**, as well as on a **6-DOF UR10e robotic arm in MuJoCo**. The following simulations demonstrate how Zonal RL-RRT effectively generates feasible and efficient trajectories.
 
-<!-- ![Robot Path Planning - Gif](robot_path.gif)  -->
-<!-- ![3D Environment Simulation - Gif](3d_simulation.gif) --> 
+
 *Figure: Robot motion planning and 3D environment navigation.*
+<p align="center">
+  <img src="Shelf1.gif" width="300">
+  <img src="Shelf2.gif" width="300">
+  <img src="Shelf3.gif" width="300">
+</p>
+
+<p align="center">
+  <img src="Cube_1.gif" width="300">
+  <img src="Cube_2.gif" width="300">
+  <img src="Cube_3.gif" width="300">
+</p>
+
 
 ## Key Contributions
 - **Efficient Zone Partitioning**: Kd-tree partitioning dynamically adjusts to environment complexity.
