@@ -44,17 +44,17 @@ Our algorithm has been tested in both **2D and 3D environments**, as well as on 
 
 ### Scenario 1
 <p align="center">
-  <img src="Cube_1.gif" width="200">
-  <img src="Cube_2.gif" width="200">
-  <img src="Cube_3.gif" width="200">
+  <img src="Cube_1.gif" width="220">
+  <img src="Cube_2.gif" width="220">
+  <img src="Cube_3.gif" width="220">
 </p>
 
 
 ### Scenario 2
 <p align="center">
-  <img src="Shelf_1.gif" width="200">
-  <img src="Shelf_2.gif" width="200">
-  <img src="Shelf_3.gif" width="200">
+  <img src="Shelf_1.gif" width="230">
+  <img src="Shelf_2.gif" width="230">
+  <img src="Shelf_3.gif" width="230">
 </p>
 
 
