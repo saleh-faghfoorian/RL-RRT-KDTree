@@ -55,9 +55,9 @@ Our algorithm has been tested in both **2D and 3D environments**, as well as on 
 
 ### Scenario 2
 <p align="center">
-  <img src="Shelf1.gif" width="200">
-  <img src="Shelf2.gif" width="200">
-  <img src="Shelf3.gif" width="200">
+  <img src="Shelf_1.gif" width="200">
+  <img src="Shelf_2.gif" width="200">
+  <img src="Shelf_3.gif" width="200">
 </p>
 
 
