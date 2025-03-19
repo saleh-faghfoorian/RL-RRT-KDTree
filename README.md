@@ -44,9 +44,9 @@ Our algorithm has been tested in both **2D and 3D environments**, as well as on 
 
 ### Scenario 1
 <p align="center">
-  <img src="Cube_1.gif" width="290">
-  <img src="Cube_2.gif" width="290">
-  <img src="Cube_3.gif" width="290">
+  <img src="Cube_1.gif" width="300">
+  <img src="Cube_2.gif" width="300">
+  <img src="Cube_3.gif" width="300">
 </p>
 
 
