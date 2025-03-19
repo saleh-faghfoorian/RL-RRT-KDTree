@@ -66,7 +66,7 @@ Our algorithm has been tested in both **2D and 3D environments**, as well as on 
 - **Scalability**: Demonstrates robust performance in **2D, 3D, and 6D environments**.
 - **Real-World Application**: Tested on **UR10e robotic arm in MuJoCo**.
 
-## Installation
+<!-- ## Installation
 To set up and run the algorithm, follow these steps:
 ```bash
 # Clone the repository
@@ -74,4 +74,4 @@ git clone https://github.com/saleh-faghfoorian/RL-RRT-KDTree.git
 cd RL-RRT-KDTree
 
 # Install dependencies
-pip install -r requirements.txt
+pip install -r requirements.txt -->
