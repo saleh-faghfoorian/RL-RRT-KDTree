@@ -22,19 +22,20 @@ A key component of our approach is **kd-tree partitioning**, which dynamically s
 
 *Figure: An example of kd-tree partitioning.*
 
-<table>
-   <tr>
-     <td align="center">
-       <img src="2D_scenario1.gif" width="300"><br>
-       <sub><b>Figure 1:</b> With zone connectivity</sub>
-     </td>
-     <td align="center">
-       <img src="2D_scenario2_without_zone_connectivity.jpg" width="304"><br>
-       <sub><b>Figure 2:</b> Without zone connectivity</sub>
-     </td>
-   </tr>
+<div align="center">
+  <table>
+     <tr>
+       <td align="center">
+         <img src="2D_scenario1.gif" width="300"><br>
+         <sub><b>Figure 1:</b> With zone connectivity</sub>
+       </td>
+       <td align="center">
+         <img src="2D_scenario2_without_zone_connectivity.jpg" width="304"><br>
+         <sub><b>Figure 2:</b> Without zone connectivity</sub>
+       </td>
+     </tr>
  </table>
-
+</div>
 
 
 
