@@ -44,19 +44,21 @@ To ensure smooth navigation, we establish **zone connectivity** by analyzing sha
 
 <!-- *Figure: Without zone connectivity* -->
 
-<table>
-   <tr>
-     <td align="center">
-       <img src="2D_scenario2.gif" width="326"><br>
-       <sub><b>Figure 1:</b> With zone connectivity</sub>
-     </td>
-     <td align="center">
-       <img src="2D_scenario1_without_zone_connectivity.jpg" width="327"><br>
-       <sub><b>Figure 2:</b> Without zone connectivity</sub>
-     </td>
-   </tr>
- </table>
 
+<div align="center">
+  <table>
+     <tr>
+       <td align="center">
+         <img src="2D_scenario2.gif" width="326"><br>
+         <sub><b>Figure 1:</b> With zone connectivity</sub>
+       </td>
+       <td align="center">
+         <img src="2D_scenario1_without_zone_connectivity.jpg" width="327"><br>
+         <sub><b>Figure 2:</b> Without zone connectivity</sub>
+       </td>
+     </tr>
+ </table>
+</div>
 
 <!-- ![Zone Connectivity - Gif 1](zone_connectivity_1.gif)  -->
 <!-- ![Zone Connectivity - Gif 2](zone_connectivity_2.gif)  -->
