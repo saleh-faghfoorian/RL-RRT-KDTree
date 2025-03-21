@@ -24,7 +24,7 @@ A key component of our approach is **kd-tree partitioning**, which dynamically s
 
 <p align="center">
   <img src="2D_scenario1.gif" width="300">
-  <img src="2D_scenario2.gif" width="326">
+  <img src="2D_scenario2_without_zone_connectivity.jpg" width="300">
 </p>
 
 
@@ -33,7 +33,7 @@ To ensure smooth navigation, we establish **zone connectivity** by analyzing sha
 
 *Figure: Without zone connectivity*
 <p align="center">
-  <img src="2D_scenario2_without_zone_connectivity.jpg" width="300">
+  <img src="2D_scenario2.gif" width="326">
   <img src="2D_scenario1_without_zone_connectivity.jpg" width="322">
 </p>
 
