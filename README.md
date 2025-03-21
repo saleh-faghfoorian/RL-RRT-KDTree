@@ -26,11 +26,11 @@ A key component of our approach is **kd-tree partitioning**, which dynamically s
    <tr>
      <td align="center">
        <img src="2D_scenario1.gif" width="300"><br>
-       <sub><b>Figure 1:</b> Your caption for the GIF here</sub>
+       <sub><b>Figure 1:</b> With zone connectivity</sub>
      </td>
      <td align="center">
        <img src="2D_scenario2_without_zone_connectivity.jpg" width="304"><br>
-       <sub><b>Figure 2:</b> Your caption for the image here</sub>
+       <sub><b>Figure 2:</b> Without zone connectivity</sub>
      </td>
    </tr>
  </table>
