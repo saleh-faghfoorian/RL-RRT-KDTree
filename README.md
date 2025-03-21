@@ -41,7 +41,7 @@ A key component of our approach is **kd-tree partitioning**, which dynamically s
 ## Zone Connectivity
 To ensure smooth navigation, we establish **zone connectivity** by analyzing shared boundaries between partitions. Using Value Iteration, our algorithm determines the optimal sequence of zones to traverse, minimizing computational overhead while ensuring high success rates.
 
-*Figure: Without zone connectivity*
+<!-- *Figure: Without zone connectivity* -->
 
 <table>
    <tr>
