@@ -22,18 +22,17 @@ A key component of our approach is **kd-tree partitioning**, which dynamically s
 
 *Figure: An example of kd-tree partitioning.*
 
-<p align="center">
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <div style="text-align: center;">
-      <img src="2D_scenario1.gif" width="300"><br>
-      <sub><b>Figure 1:</b> Your caption for the GIF here</sub>
-    </div>
-    <div style="text-align: center;">
-      <img src="2D_scenario2_without_zone_connectivity.jpg" width="304"><br>
-      <sub><b>Figure 2:</b> Your caption for the image here</sub>
-    </div>
+<div align="center">
+  <div style="display: inline-block; text-align: center; margin-right: 20px;">
+    <img src="2D_scenario1.gif" width="300"><br>
+    <sub><b>Figure 1:</b> Your caption for the GIF here</sub>
   </div>
-</p>
+  <div style="display: inline-block; text-align: center;">
+    <img src="2D_scenario2_without_zone_connectivity.jpg" width="304"><br>
+    <sub><b>Figure 2:</b> Your caption for the image here</sub>
+  </div>
+</div>
+
 
 
 
